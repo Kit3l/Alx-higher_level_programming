@@ -7,4 +7,4 @@ def best_score(a_dictionary):
             if score is None or a_dictionary[k] > score:
                 score = a_dictionary[k]
                 person = k
-     return person
+            return person
