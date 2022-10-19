@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """
-Module 4-rectangle
+Module 5-rectangle
 Contains class Rectangle with private attribute width and height,
-public area and perimeter methods, and allows printing #'s
+public area and perimeter methods, and allows printing #'s and deletes
 """
 
 
