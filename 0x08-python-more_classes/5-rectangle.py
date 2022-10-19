@@ -12,6 +12,7 @@ class Rectangle:
     Args:
         width (int): width
         height (int): height
+  
     Functions:
         __init__(self, width, height)
         width(self)
