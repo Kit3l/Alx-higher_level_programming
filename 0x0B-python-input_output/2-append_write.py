@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """
+
 appends to text file and returns num chars added
 """
 
