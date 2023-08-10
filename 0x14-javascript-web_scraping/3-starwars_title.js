@@ -6,4 +6,4 @@ request('http://swapi.co/api/films/' + id + '/', function (error, response, body
     const json = JSON.parse(body);
     console.log(json.title);
   }
-});
+})
